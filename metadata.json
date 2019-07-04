@@ -1,0 +1,8 @@
+{
+    "uuid": "nprbutton@jeffchannell.com",
+    "name": "NPR Button",
+    "description": "Play NPR Radio",
+    "url": "https://github.com/jeffchannell/nprbutton",
+    "shell-version": [ "3.28.4" ],
+    "version": "0.0.1"
+  }
